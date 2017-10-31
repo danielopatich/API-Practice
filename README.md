@@ -1,3 +1,15 @@
+See my code in API-Practice/packages/react-scripts/template/src/App.js
+
+
+
+
+
+
+
+
+
+
+
 # Create React App [![Build Status](https://travis-ci.org/facebookincubator/create-react-app.svg?branch=master)](https://travis-ci.org/facebookincubator/create-react-app)
 
 Create React apps with no build configuration.
